@@ -1,2 +1,6 @@
 I Have written Second the file 
+<<<<<<< HEAD
 I am writing Text from Mylocal_1 lines
+=======
+I am writing Text From mylocal lines
+>>>>>>> f407ee27b089987210e8719105c2bad53f551344
